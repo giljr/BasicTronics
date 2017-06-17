@@ -14,4 +14,4 @@ YOUTUBE PLAYLISTS: https://goo.gl/KtxSz0   and https://goo.gl/aYsFNF
 #09 Project - DRV8825 Driver & Stepper Motor 24BYJ48 - Operation & Theory
     Title: DRV8825 Driver & Stepper Motor 24BYJ48  #basicTronic 09 -- Medium Webpage:
     Description: what the Gadget I want to do? Simple: a platform to test the servo with DRV8825B DRIVER for my balanced car project      
-    (thanks to Brokking.net)  codes: _09_LCD16_2_Test_01.ino  _09_DRV8825_driverTest_02.ino
+    Codes: _09_LCD16_2_Test_01.ino  _09_DRV8825_driverTest_02.ino
